@@ -18,5 +18,7 @@ The extension ensures convenience in importing and exporting product reviews alo
 * Easy configuration and saves time!
 * Multi-store support
 
-For more information, visit [https://meetanshi.com/magento-2-reviews-import-export.html](https://meetanshi.com/magento-2-reviews-import-export.html)
+For more information, visit ***[https://meetanshi.com/magento-2-reviews-import-export.html](https://meetanshi.com/magento-2-reviews-import-export.html)***
 
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento-2/product-reviews-import-export/](https://meetanshi.com/docs/magento-2/product-reviews-import-export/)***
